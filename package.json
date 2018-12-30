@@ -1,0 +1,22 @@
+{
+  "name": "string-array-comparator",
+  "version": "1.5.1",
+  "description": "compare array of strings with another array of strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoustafaMohsen/string-array-comparator.git"
+  },
+  "keywords": [
+    "match-string"
+  ],
+  "author": "Moustafa Mohsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoustafaMohsen/string-array-comparator/issues"
+  },
+  "homepage": "https://github.com/MoustafaMohsen/string-array-comparator#readme"
+}
