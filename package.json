@@ -2,8 +2,10 @@
   "name": "string-array-comparator",
   "version": "1.5.1",
   "description": "compare array of strings with another array of strings",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
