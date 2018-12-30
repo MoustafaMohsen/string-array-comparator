@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MoustafaMohsen/string-array-comparator/issues"
   },
-  "homepage": "https://github.com/MoustafaMohsen/string-array-comparator#readme"
+  "homepage": "https://github.com/MoustafaMohsen/string-array-comparator#readme",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
 }
